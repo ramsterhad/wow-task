@@ -1,0 +1,5 @@
+config/*.json
+logs/*.log
+
+composer.lock
+vendor/
